@@ -1,6 +1,6 @@
 # Caracterização elétrica e comparação de Full Adders para computação aproximada
 
-Este repositório contém os arquivos utilizados para pesquisa realizada como projeto de Iniciação Científica do curso de Ciências da Computação da UFSC (PIBIC/CNPq).
+Este repositório contém os arquivos utilizados para pesquisa realizada como projeto de Iniciação Científica do curso de Ciências da Computação da UFSC (PIBIC/CNPq - 2019-2020).
 
 Os arquivos deste repositório serviram para automatizamação de simulações elétricas SPICE e avaliação das topologias estudadas.
 
